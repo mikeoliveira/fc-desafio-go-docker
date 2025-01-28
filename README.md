@@ -20,7 +20,7 @@ To download and run the minimal Golang Docker image from Docker Hub, follow thes
     docker pull mikeoliveira/fc-desafio-go:latest
     ```
     [Link - Docker Hub](https://hub.docker.com/r/mikeoliveira/fc-desafio-go/tags)
-    
+
 3. **Verify the Downloaded Image**
     Check that the image has been downloaded successfully:
 
@@ -42,6 +42,16 @@ To download and run the minimal Golang Docker image from Docker Hub, follow thes
     ```bash
     Full Cycle Rocks!!
     ```
+### Extra
+    If you prefer the docker compose to run this project, you could run the follow code:
+    ```bash
+    docker compose up
+    ```
+    or
+    ```bash
+    docker-compose up
+    ```
+
 
 ## 📚 Graceful Teaching Methodology
 This project is designed to teach the following concepts in a simple and effective way:
