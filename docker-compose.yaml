@@ -1,0 +1,10 @@
+version: '1'
+
+services:
+
+  app:
+    build:
+      context: ./
+    container_name: golang
+    tty: true
+    
