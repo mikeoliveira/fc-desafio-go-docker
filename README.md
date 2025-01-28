@@ -42,7 +42,7 @@ To download and run the minimal Golang Docker image from Docker Hub, follow thes
     ```bash
     Full Cycle Rocks!!
     ```
-### Extra
+    ### Extra
     If you prefer the docker compose to run this project, you could run the follow code:
     ```bash
     docker compose up
